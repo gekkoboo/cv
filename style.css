@@ -1,0 +1,22 @@
+.hidden {
+    position: absolute;
+    top: -9999999px;
+}
+
+#bottommark {
+    position: absolute;
+    bottom: 0;
+}
+
+#animation { 
+    background-repeat: no-repeat;
+    position : fixed; 
+    top: 0;
+    width: 980px;
+    margin: 0 auto;
+}
+
+body, html {
+    height: 1000px; /* just for DEMO */
+    margin: 0;
+}
